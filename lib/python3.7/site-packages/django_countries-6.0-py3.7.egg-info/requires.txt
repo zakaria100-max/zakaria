@@ -1,0 +1,17 @@
+
+[dev]
+tox
+django
+pytest
+pytest-django
+djangorestframework
+
+[maintainer]
+transifex-client
+zest.releaser[recommended]
+django
+
+[test]
+pytest
+pytest-django
+pytest-cov
